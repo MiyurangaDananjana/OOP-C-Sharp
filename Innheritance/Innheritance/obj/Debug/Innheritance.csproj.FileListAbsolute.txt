@@ -1,0 +1,10 @@
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\bin\Debug\Innheritance.exe.config
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\bin\Debug\Innheritance.exe
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\bin\Debug\Innheritance.pdb
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.csproj.AssemblyReference.cache
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.Form1.resources
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.Properties.Resources.resources
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.csproj.GenerateResource.cache
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.csproj.CoreCompileInputs.cache
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.exe
+C:\Users\Miyuranga\source\repos\Innheritance\Innheritance\obj\Debug\Innheritance.pdb
